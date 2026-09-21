@@ -1,5 +1,6 @@
 # Warren-Buffet-A-jornada-do-or-culo-
 Um artigo feito total com a IA do NotebookLm sobre o Warren Buffet e sua vida.
+
 Embora desejasse ingressar diretamente nos negócios, Buffett foi compelido por seu pai a estudar na Wharton School, transferindo-se depois para a Universidade de Nebraska-Lincoln, onde se formou aos 19 anos
 . Após ser rejeitado pela Harvard Business School por ser considerado "jovem demais", ele ingressou na Columbia Business School ao descobrir que Benjamin Graham, o pai do Value Investing, lecionava lá
 . A leitura de The Intelligent Investor e o contato direto com Graham formataram sua filosofia de investimento, ensinando-o a buscar uma margem de segurança e a focar no valor intrínseco das empresas em vez das oscilações de preço
